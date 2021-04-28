@@ -1,4 +1,4 @@
-# Image Slider built with React
+# Image Slider 
 https://rezmalek.github.io/react-slider/
 
 ### Functionality
