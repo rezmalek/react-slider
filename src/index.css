@@ -89,6 +89,14 @@ p {
   font-weight: 500;
   color: var(--clr-primary-2);
 }
+.underline {
+  width: 5rem;
+  height: 0.25rem;
+  margin-bottom: 1.25rem;
+  background: var(--clr-primary-5);
+  margin-left: auto;
+  margin-right: auto;
+}
 .section-center {
   margin: 0 auto;
   margin-top: 4rem;
